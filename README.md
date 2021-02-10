@@ -6,3 +6,6 @@ The first lab contains basic histogram visualizations (pdfs) and observations ab
 
 # Lab 2
 The second lab explores the cumulative distribution functions (cdfs),  the Pearson correlation coefficient, interpretations from R-squared values and scatterplot smoothing. 
+
+# Lab 3
+Cleaning the data and performing the KS test to determine whether the given samples are normally distributed or not.
