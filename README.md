@@ -9,3 +9,6 @@ The second lab explores the cumulative distribution functions (cdfs),  the Pears
 
 # Lab 3
 Cleaning the data and performing the KS test to determine whether the given samples are normally distributed or not.
+
+# Lab 4 
+Ordinary least squares regression and bi-weighted least squares regression. 
