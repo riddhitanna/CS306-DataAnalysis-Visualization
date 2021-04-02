@@ -12,3 +12,6 @@ Cleaning the data and performing the KS test to determine whether the given samp
 
 # Lab 4 
 Ordinary least squares regression and bi-weighted least squares regression. 
+
+# Lab 5
+Using Singular Value Decomposition and EigenValue Decomposition for ellipse fitting.
