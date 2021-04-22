@@ -25,5 +25,7 @@ Reconstruction of MNIST digits dataset using PCA
 # Lab 8
 K-means clustering
 
+# Lab 9
+Data wrangling and visualization
 
 
